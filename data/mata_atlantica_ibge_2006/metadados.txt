@@ -1,0 +1,10 @@
+
+shape_mata_atlantica_ibge_5milhoes_policonica_sirgas2000shp_202
+
+Sob a Lei da MA de 2006
+
+A Lei da Mata Atlântica (Lei nº 11.428/2006) e o Decreto nº 6.660/2008, que a regulamenta, determinam que a sua área de aplicação segue as delimitações estabelecidas em mapa do Instituto Brasileiro de Geografia e Estatística – IBGE, considerando as formações florestais e ecossistemas associados que integram o bioma. 
+
+Disponível em: https://antigo.mma.gov.br/biomas/mata-atl%C3%A2ntica_emdesenvolvimento/mapas-da-mata-atl%C3%A2ntica.html
+ou: https://antigo.mma.gov.br/estruturas/202/_arquivos/shape_mata_atlantica_ibge_5milhoes_policonica_sirgas2000shp_202.zip
+Acessado em: 08/06/2021
